@@ -5,6 +5,7 @@ Welcome to the erfindergarden wiki! Here you can find documentation on most of o
 
 ## Content
 
+- [How to use this wiki](/meta/how-to)
 - [Tools](/tools)
 - [Skills](/skills)
 
