@@ -15,4 +15,4 @@
 
 # Further Resources
 - Manufacturer Website: [craftunique.com](https://www.craftunique.com/)
-- [User Manual](https://support.craftunique.com/scripts/file.php?view=Y&file=ac08265613625bb08a009962c4ed579b)
+- User Manual: [PDF Download](https://support.craftunique.com/scripts/file.php?view=Y&file=ac08265613625bb08a009962c4ed579b)
