@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: erfindergarden wiki -->
+<!-- SUBTITLE: where the erfinders document their garden -->
 
-# Header
+# Heading
