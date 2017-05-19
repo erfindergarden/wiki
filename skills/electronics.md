@@ -1,4 +1,7 @@
 <!-- TITLE: Electronics -->
-<!-- SUBTITLE: A quick summary of Electronics -->
+<!-- SUBTITLE: General techniques related to electronics production and embedded programming (microcontrollers) -->
 
-# Header
+# Subpages
+
+- [Oscilloscope Usage](/skills/electronics/oscilloscope-usage)
+- [PCB Milling](/skills/electronics/pcb-milling)
