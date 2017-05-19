@@ -16,6 +16,9 @@ Software for CAM processing and G-Code transmission:
 *   Fusion 360
 *   Universal G-Code sender
 
+# Maintenance
+…
+
 # Further Resources
 
 Manufacturer Website: [stepcraft-systems.com](https://www.stepcraft-systems.com/)
