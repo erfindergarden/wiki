@@ -1,5 +1,5 @@
 <!-- TITLE: Stepcraft -->
-<!-- SUBTITLE: Machine page for Stepcraft -->
+<!-- SUBTITLE: Instructions on using and maintaining the Stepcraft CNC mill -->
 
 # Safety Precations
 …
