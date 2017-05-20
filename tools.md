@@ -15,11 +15,7 @@ General instructions: [3D Printing](/skills/3d-printing)
 - [Craftbot +](/tools/craftbot-plus)
 - [Ultimaker2go](/tools/ultimaker2go)
 
-# 2D Printers / Cutters
-
-- Vinyl cutter: [Silhoutette Cameo](/tools/silhouette-cameo) ([General Instructions](/skills/vinyl-cutting))
-- Inkjet printer: [HP OfficeJet something]
-- Screen printing: [Silk Screen](/tools/silk-screen) ([General Instructions](/skills/screen-printing))
+# Cutters / 2D Printers
 
 ## Laser Cutters
 
@@ -28,6 +24,12 @@ General Instructions: [Laser Cutting](/skills/laser-cutting)
 - [Epilog Zing](/tools/epilog-zing) (no longer there)
 - Glowforge
 - Mr. Beam 2
+
+## Other 2D Machines
+
+- Vinyl cutter: [Silhoutette Cameo](/tools/silhouette-cameo) ([General Instructions](/skills/vinyl-cutting))
+- Inkjet printer: [HP OfficeJet something]
+- Screen printing: [Silk Screen](/tools/silk-screen) ([General Instructions](/skills/screen-printing))
 
 # Woodworking
 
