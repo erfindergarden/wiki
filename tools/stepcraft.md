@@ -25,8 +25,11 @@ Software for CAM processing and G-Code transmission:
 Firmware:
 
 *	[GRBL](https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.9) on an Arduino UNO
+*	Driver für Arduino UNO. Dieser wird mit der [Arduino IDE] (https://www.arduino.cc/en/Main/Software).
 	 
-#  Maintenance
+# Hardware
+
+# Maintenance
 *	Die Gewindestangen müssen regelmäßig gereinigt und neu gefettet werden.
 *	Spindelmutter von Y und Z Achse bei Gelegenheit erneuern. (Spindelumkehrspiel)
 *	
