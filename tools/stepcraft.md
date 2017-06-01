@@ -25,7 +25,7 @@ Software for CAM processing and G-Code transmission:
 Firmware:
 
 *	[GRBL](https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.9) on an Arduino UNO
-*	Driver für Arduino UNO. Dieser wird mit der [Arduino IDE] (https://www.arduino.cc/en/Main/Software).
+*	Driver für Arduino UNO. Dieser wird mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 	 
 # Hardware
 Der Motortreiber in der Stepcraft 
