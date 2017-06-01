@@ -28,7 +28,7 @@ Firmware:
 *	Driver für Arduino UNO. Dieser wird mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 	 
 # Hardware
-Der Motortreiber in der Stepcraft 
+Der Motortreiber in der Stepcraft wird mittels einer Steckverbindung mit dem Arduino UNO verbunden.
 
 # Maintenance
 *	Die Gewindestangen müssen regelmäßig gereinigt und neu gefettet werden.
