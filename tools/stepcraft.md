@@ -28,7 +28,7 @@ Firmware:
 *	Driver für Arduino UNO. Dieser wird mit der [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 	 
 # Hardware
-Der Motortreiber ![Stepcraft Mit Grbl Einstellungen Endschalter](/uploads/bilder-stepcraft/stepcraft-mit-grbl-einstellungen-endschalter.png "Stepcraft Mit Grbl Einstellungen Endschalter")in der Stepcraft wird mittels einer Steckverbindung mit dem Arduino UNO verbunden.
+Der Motortreiber in der Stepcraft wird mittels einer Steckverbindung mit dem Arduino UNO verbunden.[Stepcraft Mit Grbl Einstellungen Endschalter](/uploads/bilder-stepcraft/stepcraft-mit-grbl-einstellungen-endschalter.png "Stepcraft Mit Grbl Einstellungen Endschalter")
 
 # Maintenance
 *	Die Gewindestangen müssen regelmäßig gereinigt und neu gefettet werden.
