@@ -18,7 +18,7 @@ Achtung! die Endschalter sind nicht aktiviert
 Software for CAM processing and G-Code transmission:
 
 *   [EASEL](http://easel.inventables.com/)
-*   [EstlCam](http://www.estlcam.de/)  Wer möchte kann mithelfen und Estlcam in andere Sprachen [übersetzen](http://www.estlcam.de/e2_translation.php)
+*   [EstlCam](http://www.estlcam.de/)  Wer möchte kann mithelfen und [Estlcam in andere Sprachen übersetzen](http://www.estlcam.de/e2_translation.php)
 *   Fusion 360
 *   [Universal G-Code sender](https://github.com/winder/Universal-G-Code-Sender)
 
