@@ -19,7 +19,7 @@ Otherplan can be used  as a generic G-Code sender for the Othermill, but also as
 
 Please refer to the official [Maintenance Guide](https://othermachine.co/support/techniques/maintenance/).
 
-Every once in a while, time has left its marks on the spoilboard, it might be necessary to smoothen it. There are also official instructions on how to do that: [Facing the Spoilboard](https://othermachine.co/support/techniques/facing-spoilboard/).
+Every once in a while, when time has left its marks on the spoilboard, it might be necessary to smoothen it. There are also official instructions on how to do that: [Facing the Spoilboard](https://othermachine.co/support/techniques/facing-spoilboard/).
 
 # Further Resources
 
