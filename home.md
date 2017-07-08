@@ -11,7 +11,7 @@ Welcome to the erfindergarden wiki! Here you can find documentation on most of o
 
 ## Resources
 
-- Website: [erfindergarden.de](https://erfindergarden.de/){:target="_blank"}
+- Website: [erfindergarden.de](https://erfindergarden.de/)
 - Github: [github.com/erfindergarden](https://github.com/erfindergarden)
 - Chat: [gitter.im/erfindergarden](https://gitter.im/erfindergarden)
 
